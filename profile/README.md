@@ -37,7 +37,7 @@ Repositories:
 | Repository        | Description           |
 | ------------- |-------------|
 | testing      | All test programs for Pi and Teensy |
-| locomotion   | Finalized movement and communication code      |
+| source   | Annotated openDogV3 code      |
 | webpage      | JavaScript and Vue.js Web App |
 | .github | This repository, for display on public organization profile |
 | machine_learning        | Object detection models and programs       |
