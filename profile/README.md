@@ -42,3 +42,5 @@ Repositories:
 | webpage      | JavaScript and Vue.js Web App |
 | .github | This repository, for display on public organization profile |
 | machine_learning        | Object detection models and programs       |
+| outreach        | Robotics subprojects for CSU ECE Outreach events       |
+
