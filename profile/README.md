@@ -1,6 +1,6 @@
 # RamBOTs Repo
                    
-This is the official CSU RAMBots Github organizatoin. 
+This is the official CSU RAMBots Github organization. 
 Visit us at our [website](https://projects-web.engr.colostate.edu/ece-sr-design/AY22/RamBOTs).
 
 Based on OpenDogV3 by James Bruton. Original repository can be found [here](https://github.com/XRobots/openDogV3)
