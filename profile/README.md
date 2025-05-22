@@ -38,7 +38,9 @@ Repositories:
 | ------------- |-------------|
 | testing      | All test programs for Pi and Teensy |
 | source   | Annotated openDogV3 code      |
-| deployment   | Programs currently deployed on the RamBOT      |
+| deployment   | Programs currently deployed on the RamBOT for 2024 |
+| motion  | platformIO Optimized teensy code for RamBOT 2025 |
+| platform | python code for the raspberry pi for RamBOT 2025 | 
 | webpage      | JavaScript and Vue.js Web App |
 | .github | This repository, for display on public organization profile |
 | machine_learning        | Object detection models and programs       |
