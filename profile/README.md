@@ -5,6 +5,20 @@ Visit us at our [website](https://projects-web.engr.colostate.edu/ece-sr-design/
 
 Based on OpenDogV3 by James Bruton. Original repository can be found [here](https://github.com/XRobots/openDogV3)
 
+Repositories:
+------
+
+| Repository        | Description           |
+| ------------- |-------------|
+| testing      | All test programs for Pi and Teensy |
+| source   | Annotated openDogV3 code      |
+| deployment   | Programs currently deployed on the RamBOT for 2024 |
+| motion  | platformIO Optimized teensy code for RamBOT 2025 |
+| platform | python code for the Raspberry Pi for RamBOT 2025 | 
+| webpage      | JavaScript and Vue.js Website |
+| .github | For display on public organization profile |
+| machine_learning        | Object detection models and misc ML programs    |
+| outreach        | Robotics subprojects for CSU ECE Outreach events       |
 
 License:
 ------
@@ -30,19 +44,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-Repositories:
-------
-
-| Repository        | Description           |
-| ------------- |-------------|
-| testing      | All test programs for Pi and Teensy |
-| source   | Annotated openDogV3 code      |
-| deployment   | Programs currently deployed on the RamBOT for 2024 |
-| motion  | platformIO Optimized teensy code for RamBOT 2025 |
-| platform | python code for the raspberry pi for RamBOT 2025 | 
-| webpage      | JavaScript and Vue.js Web App |
-| .github | This repository, for display on public organization profile |
-| machine_learning        | Object detection models and programs       |
-| outreach        | Robotics subprojects for CSU ECE Outreach events       |
 
