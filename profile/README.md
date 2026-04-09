@@ -18,6 +18,8 @@ Repositories:
 | webpage      | JavaScript and Vue.js Website |
 | .github | For display on public organization profile |
 | machine_learning        | Object detection models and misc ML programs    |
+| Indoor Navigation | Code for indoor navigation machine learning |
+| ArmBOTs | Code for controlling the robotic arm |
 | outreach        | Robotics subprojects for CSU ECE Outreach events       |
 
 License:
